@@ -1,8 +1,8 @@
 import React from "react";
-import './App.css'
-import MainCard from './components/MainCard'
+import './App.css';
+import MainCard from './components/MainCard';
 
-export default function App()
+function App()
 {
   return (
     <div className='main-container'>
@@ -10,3 +10,5 @@ export default function App()
     </div>
   )
 }
+
+export default App;

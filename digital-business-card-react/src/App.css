@@ -2,19 +2,19 @@
 #root {
   max-width: 1280px;
   margin: 0 auto;
-  padding: 2rem;
+  padding: 32px;
   text-align: center;
 }
 
 .main-container{
-  padding: 3rem 4rem;
+  padding: 48px 64px;
   background-color: #23252C;
-  border-radius: .7rem;
+  border-radius: 11.2px;
 }
 
 @media screen and (max-width:500px) {
  #root{
   margin: 0;
-  padding: .5rem;
+  padding: 8px;
  }
 }
